@@ -1,0 +1,51 @@
+[ {
+  "uid" : "5a41d255ceec949b",
+  "name" : "test_user_loadTargetUserInfo",
+  "time" : {
+    "start" : 1642556046901,
+    "stop" : 1642556047246,
+    "duration" : 345
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "38552f93f90783df",
+  "name" : "test_android_login",
+  "time" : {
+    "start" : 1642556046192,
+    "stop" : 1642556046192,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eff7a4564d3fa9cc",
+  "name" : "test_aresource_mypage",
+  "time" : {
+    "start" : 1642556046195,
+    "stop" : 1642556046422,
+    "duration" : 227
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5ab40ecd73739446",
+  "name" : "test_user_loadUserInfoCommon",
+  "time" : {
+    "start" : 1642556046669,
+    "stop" : 1642556046899,
+    "duration" : 230
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "344488097c43a99a",
+  "name" : "test_user_loadUserInfo",
+  "time" : {
+    "start" : 1642556046424,
+    "stop" : 1642556046667,
+    "duration" : 243
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

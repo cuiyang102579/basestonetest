@@ -1,0 +1,70 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "test_android_login",
+    "uid" : "38552f93f90783df",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1642556046192,
+      "stop" : 1642556046192,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_aresource_mypage",
+    "uid" : "eff7a4564d3fa9cc",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1642556046195,
+      "stop" : 1642556046422,
+      "duration" : 227
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_user_loadUserInfo",
+    "uid" : "344488097c43a99a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1642556046424,
+      "stop" : 1642556046667,
+      "duration" : 243
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_user_loadUserInfoCommon",
+    "uid" : "5ab40ecd73739446",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1642556046669,
+      "stop" : 1642556046899,
+      "duration" : 230
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_user_loadTargetUserInfo",
+    "uid" : "5a41d255ceec949b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1642556046901,
+      "stop" : 1642556047246,
+      "duration" : 345
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}

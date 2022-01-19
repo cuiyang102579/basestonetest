@@ -1,0 +1,147 @@
+{
+  "uid" : "38552f93f90783df",
+  "name" : "test_android_login",
+  "fullName" : "tests.hobby.test_login.TestLogin#test_android_login",
+  "historyId" : "94f853c1826bb8c9b1d6adbb961b151a",
+  "time" : {
+    "start" : 1642556046192,
+    "stop" : 1642556046192,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "SendSms",
+    "time" : {
+      "start" : 1642556045482,
+      "stop" : 1642556045794,
+      "duration" : 312
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "userLoginGetTicket",
+    "time" : {
+      "start" : 1642556045796,
+      "stop" : 1642556046191,
+      "duration" : 395
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "LoginReq",
+    "time" : {
+      "start" : 1642556045794,
+      "stop" : 1642556045795,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "AssertInit",
+    "time" : {
+      "start" : 1642556046191,
+      "stop" : 1642556046191,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "SendSmsReq",
+    "time" : {
+      "start" : 1642556045482,
+      "stop" : 1642556045482,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "312e4fde70be7158",
+      "name" : "log",
+      "source" : "312e4fde70be7158.txt",
+      "type" : "text/plain",
+      "size" : 1434
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "tests.hobby"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-BG2O5JG"
+  }, {
+    "name" : "thread",
+    "value" : "15024-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.hobby.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "38552f93f90783df.json",
+  "parameterValues" : [ ]
+}

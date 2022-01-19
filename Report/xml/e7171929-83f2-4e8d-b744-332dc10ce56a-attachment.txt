@@ -1,0 +1,8 @@
+DEBUG    urllib3.connectionpool:connectionpool.py:1001 Starting new HTTPS connection (1): api-test.hobby666.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:456 https://api-test.hobby666.com:443 "POST /api/v1/user/sms/sendSms HTTP/1.1" 200 None
+INFO     root:Request.py:50 
+ RESPONSE: {'code': 200, 'msg': None, 'data': None, 'rid': 'eb7e184e14229610b3bf045b8032935d', 'success': True}
+DEBUG    urllib3.connectionpool:connectionpool.py:1001 Starting new HTTPS connection (1): api-test.hobby666.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:456 https://api-test.hobby666.com:443 "POST /api/v1/user/registerLogin HTTP/1.1" 200 None
+INFO     root:Request.py:50 
+ RESPONSE: {'code': 200, 'msg': '请求成功', 'data': {'userId': '6090180372087218304', 'token': 'eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJmOWYwOTBjMS1mNTZjLTRkNjctOWY0ZS01NDVmODYwOThkOGMiLCJkYXRhIjoie1wibW9iaWxlXCI6XCIxODkwMDAwMDAwMVwiLFwidXNlcklkXCI6NjA5MDE4MDM3MjA4NzIxODMwNH0iLCJleHAiOjE2NDUxNDgwNDZ9.PvfORf8vwUyFgeGqVa0fq48sIevRx5BU6CW-1a0_bHbcLNlY4Jq_5qw2V0u6a7rUhf7Cb3b1Tv5ylP3B2es2-91RJ79W6Pfc0zMK3kdA3GQB-6_Lz5rtX74g3bNz0AIcTlWa8IhVi8lSvU2bLVG4NcPvdXYNmzmDpCYdSnYxe7a_etlsQWJRKFxQ2OJwXsGCxeKZ2yJnTlb3zNGwnNomoQQNQyFjKav5S1vgT8R4lO71f3Wr5DfWDtOQIyEuL1Dc0_Stq-jtcinlpYpo5aWRWdP7WUAL5fZruE8QBawsCbCs3nIdRvJzSrk7zENDsB2vEsCqYiN_Lg0tSwsAIN_nUw', 'toNewRegisterPage': False, 'registerFlag': False}, 'rid': '4d838096fa71176afee6846a66b920b4', 'success': True}

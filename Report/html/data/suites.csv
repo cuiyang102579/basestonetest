@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Jan 19 09:34:06 CST 2022","Wed Jan 19 09:34:06 CST 2022","230","tests.hobby.my.user","test_user","TestUser","","","test_user_loadUserInfoCommon",""
+"passed","Wed Jan 19 09:34:06 CST 2022","Wed Jan 19 09:34:06 CST 2022","243","tests.hobby.my.user","test_user","TestUser","","","test_user_loadUserInfo",""
+"passed","Wed Jan 19 09:34:06 CST 2022","Wed Jan 19 09:34:07 CST 2022","345","tests.hobby.my.user","test_user","TestUser","","","test_user_loadTargetUserInfo",""
+"passed","Wed Jan 19 09:34:06 CST 2022","Wed Jan 19 09:34:06 CST 2022","227","tests.hobby.my.resource_page","test_rescouce_mypage","TestMypage","","","test_aresource_mypage",""
+"passed","Wed Jan 19 09:34:06 CST 2022","Wed Jan 19 09:34:06 CST 2022","0","tests.hobby","test_login","TestLogin","","","test_android_login",""
